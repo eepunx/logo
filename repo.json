@@ -1,0 +1,8 @@
+{
+  "name": "Adhy Repository",
+  "description": "Repository plugin CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/eepunx/logo/builds/plugins.json"
+  ]
+}
